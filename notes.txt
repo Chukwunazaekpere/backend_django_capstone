@@ -1,0 +1,2 @@
+superuser:
+username: chukwunazaekpere, password: 1
